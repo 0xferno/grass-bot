@@ -10,7 +10,7 @@
 
 # Installation⬇
 ```shell
-git clone https://github.com/DesertScripts/grass-bot
+git clone https://github.com/0xferno/grass-bot
 cd grass-bot
 run.bat
 ```
